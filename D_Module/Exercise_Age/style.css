@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(80, 80, 255);
+    font: normal 15pt Arial;
+}
+
+header {
+        color:aliceblue
+}
+
+section {
+    background-color: aliceblue;
+    border-radius: 15px;
+    padding: 15px;
+    text-align: center;
+    
+}
+
+footer {
+    font-style: italic;
+    color:aliceblue
+}
