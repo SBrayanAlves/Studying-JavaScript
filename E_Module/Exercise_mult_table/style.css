@@ -1,0 +1,23 @@
+body {
+    background-color: hsl(224, 100%, 75%);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
